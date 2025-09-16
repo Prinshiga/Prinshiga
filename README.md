@@ -34,12 +34,6 @@ I'm pursuing a BSc. in Electronics and Computer Science (Specialization in Compu
 ---
 
 ---
-
-## 📊 GitHub Stats:
-![Prinshiga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prinshiga&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prinshiga&layout=compact&theme=radical)  
-
----
 ## 🎯 Fun Fact:
 _"I turn coffee ☕ into code 💻 and ideas into reality 🚀."_
 
