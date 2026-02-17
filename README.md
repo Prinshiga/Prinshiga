@@ -2,9 +2,22 @@
 
 # 👋 Hi, I'm Prinshiga  
 
-I'm pursuing a BSc. in Electronics and Computer Science (Specialization in Computer Science)
-💡 Passionate about **Software Development and Data Analysis**  
-🚀 Exploring **Machine Learning, AI and Data Science**  
+🎓 BSc. in Electronics & Computer Science  
+💻 Specializing in **Computer Science**  
+🚀 Aspiring **Software Engineer | AI & Data Enthusiast | Full-Stack Developer**
+
+I’m passionate about building practical solutions through code, exploring intelligent systems, and continuously improving my problem-solving skills.  
+I enjoy working on innovative ideas, research-driven development, and real-world applications.
+
+---
+
+## 🌟 About Me
+
+- 💡 Strong interest in **Software Development & System Design**
+- 🤖 Exploring **Artificial Intelligence, Machine Learning & Data Science**
+- 📊 Interested in **Data Analysis & Intelligent Decision Systems**
+- 🔍 Research-oriented mindset with curiosity for emerging technologies
+- 🚀 Always learning, building, and improving
 
 ---
 
@@ -15,49 +28,70 @@ I'm pursuing a BSc. in Electronics and Computer Science (Specialization in Compu
 
 ---
 
-## 💻 Tech Stack:
+# 💻 Tech Stack
 
-## 🚀 Skills & Interests
-
-### 🖥️ Programming Languages  
+## 🖥️ Programming Languages  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
 
-### 📚 Data Structures & Algorithms  
-🔹 Problem Solving  
-🔹 Algorithm Design  
-🔹 Complexity Analysis  
+---
 
-### 🌐 Web Development  
+## 📚 Core Computer Science  
+🔹 Data Structures & Algorithms  
+🔹 Problem Solving & Logical Thinking  
+🔹 Object-Oriented Programming  
+🔹 Complexity Analysis  
+🔹 Software Engineering Principles  
+
+---
+
+## 🌐 Web Development  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
 
-### 📱 Mobile App Development  
+---
+
+## 📱 Mobile App Development  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 🔹 Android (Java)  
-🔹 React Native *(learning/interest)*  
+🔹 Flutter (Cross-platform apps)  
+🔹 React Native *(exploring)*  
 
-### 🔥 Backend & Databases  
+---
+
+## 🔥 Backend & Databases  
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
 ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
 
-### 🎨 UI/UX & Design  
+---
+
+## 🎨 UI/UX & Design  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
 
-### 🔬 Research & Development  
-- R&D Enthusiast  
-- Exploring AI, ML, and Innovative Projects  
+---
+
+## 🔬 Research & Innovation  
+- AI & Intelligent Systems  
+- Applied Machine Learning  
+- Smart Monitoring & Real-Time Systems  
+- Academic & Practical Research Projects  
 
 ---
 
+## 🎯 Current Focus
+- Strengthening Full-Stack Development  
+- Deepening AI & Machine Learning Knowledge  
+- Building Scalable & Real-World Applications  
+
 ---
-## 🎯 Fun Fact:
+
+## ✨ Fun Fact  
 _"I turn coffee ☕ into code 💻 and ideas into reality 🚀."_
-
-
