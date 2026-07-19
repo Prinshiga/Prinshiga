@@ -2,8 +2,8 @@
 
 # 👋 Hi, I'm Prinshiga  
 
-🎓 BSc(Hons) in Electronics & Computer Science University Of Kelaniya
-💻 Specializing in **Computer Science**  
+🎓 BSc(Hons) in Computer Science University Of Kelaniya
+
 🚀 Aspiring **Software Engineer | AI & Data Enthusiast | Full-Stack Developer**
 
 I’m passionate about building practical solutions through code, exploring intelligent systems, and continuously improving my problem-solving skills.  
